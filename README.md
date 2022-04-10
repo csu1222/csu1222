@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @csu1222
-- 👀 I’m interested in programming learning, game
-- 🌱 I’m currently learning javascript, node.js 
+- 👀 I’m interested in programming learning
+- 🌱 I’m currently learning javascript, node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
