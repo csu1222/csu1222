@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming learning
 - 🌱 I’m currently learning javascript, node.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me cjstjddnr12@gmail.com 
 
 <!---
 csu1222/csu1222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
